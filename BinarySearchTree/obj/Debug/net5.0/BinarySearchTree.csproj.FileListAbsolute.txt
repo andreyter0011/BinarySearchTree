@@ -1,0 +1,16 @@
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\BinarySearchTree.exe
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\BinarySearchTree.deps.json
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\BinarySearchTree.runtimeconfig.json
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\BinarySearchTree.runtimeconfig.dev.json
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\BinarySearchTree.dll
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\BinarySearchTree.pdb
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.dll
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\refint\BinarySearchTree.dll
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.pdb
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\ref\BinarySearchTree.dll
